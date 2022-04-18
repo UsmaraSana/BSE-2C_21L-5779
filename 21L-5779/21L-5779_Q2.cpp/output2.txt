@@ -1,0 +1,10 @@
+Entered word is: JPEG
+Indices are: (0,0)(0,3)
+Entered word is: USB
+Indices are: (1,16)(1,14)
+Entered word is: HARDWARE
+Indices are: (8,13)(1,13)
+Entered word is: JAVA
+Indices are: (4,12)(1,9)
+Entered word is: QUSTUNTUNIA
+Indices are: Word not found
